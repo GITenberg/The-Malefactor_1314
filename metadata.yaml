@@ -1,0 +1,34 @@
+_repo: The-Malefactor_1314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: Tall and burly, with features and skin hardened by exposure to the sun
+  and winds of many climates, he looked like a man ready to face all hardships, equal
+  to any emergency. Already one seemed to see the clothes and habits of civilization
+  falling away from him, the former to be replaced by the stern, unlovely outfit of
+  the war correspondent who plays the game. They crowded round him in the club smoking
+  room, for these were his last few minutes.
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Malefactor
+url: http://www.gutenberg.org/ebooks/1314
