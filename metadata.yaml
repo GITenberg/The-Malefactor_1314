@@ -1,5 +1,8 @@
 _repo: The-Malefactor_1314
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -17,6 +20,8 @@ description: Tall and burly, with features and skin hardened by exposure to the 
   falling away from him, the former to be replaced by the stern, unlovely outfit of
   the war correspondent who plays the game. They crowded round him in the club smoking
   room, for these were his last few minutes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1314#The-Malefactor
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
 identifiers:
